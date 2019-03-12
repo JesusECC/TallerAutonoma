@@ -1,4 +1,4 @@
-# TallerAutonoma
+# Taller Autonoma
 - Instalación de las dependencias
   - Node, Python2, JDK
 - Instalación Android Studio
